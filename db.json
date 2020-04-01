@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.4724, 3.29262]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "ID": null,
+        "Name": "Atiku Son",
+        "Place": "Festac Two-One road c1 close",
+        "Date": null,
+        "types": null,
+        "Comments": "Walked passed, visited med  store",
+        "POINT_X": [6.4724, 3.29262],
+        "POINT_Y": [6.4724, 3.29263],
+        "fromTime": 1585667661,
+        "toTime": 1585754061,
+        "sourceOID": 1,
+        "flight": 1,
+        "flightFrom": "U.S",
+        "flightArrival": "Lagos",
+        "stayTimes": "00:00-00:30",
+        "fromTime_utc": 1585667661,
+        "toTime_utc": 1585754061,
+        "Key_Field": 1425
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.4724, 3.29262]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "ID": null,
+        "Name": "Seyi Makinde",
+        "Place": "Festac Two-One road c1 close",
+        "Date": null,
+        "types": null,
+        "Comments": "Walked passed, visited med  store",
+        "POINT_X": [6.4724, 3.29262],
+        "POINT_Y": [6.4724, 3.29263],
+        "fromTime": 1585667661,
+        "toTime": 1585754061,
+        "sourceOID": 1,
+        "flight": 1,
+        "flightFrom": "U.S",
+        "flightArrival": "Lagos",
+        "stayTimes": "00:00-00:30",
+        "fromTime_utc": 1585667661,
+        "toTime_utc": 1585754061,
+        "Key_Field": 1425
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.4724, 3.29262]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "ID": null,
+        "Name": "El Rufai",
+        "Place": "Festac Two-One road c1 close",
+        "Date": null,
+        "types": null,
+        "Comments": "Walked passed, visited med  store",
+        "POINT_X": [6.4724, 3.29262],
+        "POINT_Y": [6.4724, 3.29263],
+        "fromTime": 1585667661,
+        "toTime": 1585754061,
+        "sourceOID": 1,
+        "flight": 1,
+        "flightFrom": "U.S",
+        "flightArrival": "Lagos",
+        "stayTimes": "00:00-00:30",
+        "fromTime_utc": 1585667661,
+        "toTime_utc": 1585754061,
+        "Key_Field": 1425
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.4724, 3.29262]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "ID": null,
+        "Name": "Prince Charles",
+        "Place": "Festac Two-One road c1 close",
+        "Date": null,
+        "types": null,
+        "Comments": "Walked passed, visited med  store",
+        "POINT_X": [6.4724, 3.29262],
+        "POINT_Y": [6.4724, 3.29263],
+        "fromTime": 1585667661,
+        "toTime": 1585754061,
+        "sourceOID": 1,
+        "flight": 1,
+        "flightFrom": "U.S",
+        "flightArrival": "Lagos",
+        "stayTimes": "00:00-00:30",
+        "fromTime_utc": 1585667661,
+        "toTime_utc": 1585754061,
+        "Key_Field": 1425
+      }
+    }
+  ]
+}
